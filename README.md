@@ -1,4 +1,4 @@
-# Sales Email Summarizer — Google Apps Script + ChatGPT
+# Sales Email Summarizer — Google Apps Script + ChatGPT + Slack Notification
 
 A Google Apps Script automation that scans your Gmail for sales and support emails, analyzes them with ChatGPT, logs actionable leads to Google Sheets, and posts a daily summary to Slack.
 
